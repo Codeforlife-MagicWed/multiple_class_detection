@@ -1,2 +1,14 @@
+📦 data_image
+├── 📁 annotation
+│   └── *.xml
+├── 📁 train
+│   ├── *.jpg
+│   └── *.txt
+├── 📁 test
+│   ├── *.jpg
+│   └── *.txt
+
+
+
 Get from this link
 http://host.robots.ox.ac.uk/pascal/VOC/voc2012/?fbclid=IwY2xjawLV1eZleHRuA2FlbQIxMABicmlkETFEZmFweGFwZmdlbThqdmFlAR692saDikfkUwh_rcVPZ5a1hZtmMq4zkvMwV-uG5dX-Tk6CDYNGMmAydSGqeQ_aem_WIe-he-F1ZWj3xhjjKlrWg
